@@ -2,7 +2,7 @@
 Hide data in a Collection of Pictures with reversable function even after shuffling the new collection
 
 Check "PicSteg.py -h"
-"Make sure to check all images before using, this script doesn't check for correctness of user image"
+"Make sure to check all images before using, this script doesn't check for correctness of input img"
 
 usage:
 
