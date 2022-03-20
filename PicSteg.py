@@ -1,5 +1,5 @@
 # This code is originally from https://betterprogramming.pub/image-steganography-using-python-2250896e48b9
-# Edited by Abdulrahman Alhuwais to be working in encoding and decoding for multiple pictures.
+# Edited by drperstry to be working in encoding and decoding for multiple pictures.
 
 # more references
     # https://www.geeksforgeeks.org/program-decimal-binary-conversion/
